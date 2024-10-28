@@ -1,4 +1,5 @@
-baseURL: https://example.org/
+baseURL: https://forestandtrees.co.uk/
 languageCode: en-us
 title: Martin's Weeknotes
-theme: ["papermod"]
+theme: ["lightbi"]
+mainSections: ["post", "posts"]
