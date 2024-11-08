@@ -3,7 +3,11 @@ Title: Weeknotes for 4th November 2024
 date: 2024-11-08
 author: Martin
 ---
-4th November is two anniversaries for me: it's the anniversary of my Dad passing away in 2023, and also the anniversay of the day I first kissed my partner, back in 2000.
+4th November is two anniversaries for me: it's the anniversary of my Dad passing away in 2023, and also the anniversay of me and my partner, back in 2000.
+
+I'm still making tweaks to try and make these weeknotes more readable and also getting used to Hugo.
+
+
 
 #### Monday
 _7hr 49m sleep: 63bpm resting heart rate: 14st 13lb weight. Earworm: Just Like Heaven by The Cure_
@@ -18,6 +22,7 @@ QOTD: "Revenue is vanity, profit is sanity, and cash is king."
 
 Started reading "Profit First" by Mike Michalowicz https://mikemichalowicz.com/profit-first/.
 
+
 #### Tuesday
 _6hr 9m sleep: 62bpm resting heart rate: 14st 11lb weight. Earworm: This Town Ain't Big Enough by Sparks._
 
@@ -26,6 +31,7 @@ I went running at 5am. Out for 90 minutes, ran for 41 of them in 12 intervals av
 At the Hub by 9am to catch up on emails etc, but met my big sister mid-morning, to visit a physical bank branch to set up an Executor's account for our Dad's stuff.
 
 QOTD: "@martinhowitt whatever happens, we will deal with it with fortitude, grace, and yelling our asses off on the socials. Sleep well." - _Russell Garner on Mastodon_
+
 
 #### Wednesday
 _4hr 29m sleep: 63bpm resting heart rate: 14st 12lb weight. Earworm: Soon by MBV vs Andy Weatheral._
@@ -40,12 +46,14 @@ The Profit First methodology has some common sense in it, but it does require yo
 
 QOTD: "@martinhowitt I've lost both parents. I've found it takes about two years to get out from under the grief, and 40 more to sort out the guilt. Hang in there. You're not alone." - _Katherine Pickett on Mastodon_
 
+
 #### Thursday
 _5hr 46m sleep: 64bpm resting heart rate: no weight measure: Earworm: Diesel Power by Prodigy._
 
 At Bath Spa University today, we support their short course in Data Analytics and Machine Learning with a day-long workshop about working in data-related roles. I really enjoy these workshops, and they happen about once per term. Plus I get to work with Lucy, which os always life-affirming.
 
 QOTD: "All models are wrong, but some are useful." Attributed to George Box, statistician
+
 
 #### Friday
 _5hr 50m sleep: 63bpm resting heart rate: 14st 12lb weight. Earworm: Ramble On by Led Zeppelin._
@@ -55,3 +63,4 @@ Still trying not to think about The Thing, even though it's bad. The company has
 One thing we are already doing is reviewing some of our contracts to ensure we aren't unwittingly contributing to the problem. I started working on that today with Simon, one of the other TDP directors, amongst other things.
 
 QOTD: "I'd write weeknotes, but no-one would believe what I did all day" - Simon
+
