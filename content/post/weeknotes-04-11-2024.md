@@ -1,6 +1,6 @@
 --- 
 Title: Weeknotes for 4th November 2024
-date: 2024-10-28
+date: 2024-11-08
 author: Martin
 ---
 4th November is two anniversaries for me: it's the anniversary of my Dad passing away in 2023, and also the anniversay of the day I first kissed my partner, back in 2000.
