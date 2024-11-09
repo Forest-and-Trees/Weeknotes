@@ -1,5 +1,6 @@
 baseURL: https://forestandtrees.co.uk/
 languageCode: en-us
 title: Martin's Weeknotes
+author: Martin
 theme: ["lightbi"]
 mainSections: ["post", "posts"]
