@@ -7,6 +7,7 @@ author: Martin
 
 I'm still making tweaks to try and make these weeknotes more readable and also getting used to Hugo.
 
+So what happened this week?  
 
 
 #### Monday
