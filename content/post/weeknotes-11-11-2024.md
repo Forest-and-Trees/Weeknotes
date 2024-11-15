@@ -21,9 +21,9 @@ I also dealt with an outage on the legacy infrastructure that we use to host one
 In the office I worked on developing a proposal for a possible client, and looked at some project updates from collaborators, had calls etc. I'm dog tired.
 
 QOTD: "Take it easy, but take it all." - Lemn Sissay
-&NewLine;
-&NewLine;
-&NewLine;
+&nbsp; 
+&nbsp;
+
 
 #### Tuesday
 _4hr 47m sleep: 66bpm resting heart rate: 14st 13.6lb weight. Earworm: Block Rocking Beats by Chemical Brothers._
