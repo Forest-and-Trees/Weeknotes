@@ -32,6 +32,8 @@ The highlight of my day was receiving an ITT from an unnamed cultural organisait
 More house admin done. Not sure if there's any kind of end in sight, but these are problems many people would kill to have. Despite that perspective, I'm miserable.
 
 QOTD: "I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there." - @IHasWisdom@mastodon.social
+` `  
+` `
 
 #### Wednesday
 _6h 2m sleep: 65bpm resting heart rate: 14st 11.6lb weight. Earworm: Jennifer by Everything Everything._
