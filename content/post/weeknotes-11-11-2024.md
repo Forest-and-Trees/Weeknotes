@@ -45,7 +45,9 @@ The accountant had some interesting things to say about the Profit First methodo
 At the Hub for the rest of the day, having dropped a documentation bomb off at the solicitor's offices on the way. Working on data cleansing a smallish dataset.
 
 QOTD: "When people ask why I'm fighting the climate crisis in the UK, I ask them which country they think carbon dioxide is in" - Phil Sturgeon, Protect Earth
-
+  
+    
+      
 #### Thursday
 _6h 48m sleep: 64bpm resting heart rate: 14st 12.2lb weight. Earworm: Freddie's Dead by Curtis Mayfield._
 
