@@ -7,8 +7,9 @@ Still lots to learn about Hugo, and not enough brain capacity. Also Markdown. Ap
 Over the weekend I went running, watched John Wick 4 (spoiler alert: thankfully there won't be a JW5 as I don't think I have the stomach for any more), visited an ink and illustration fayre in Topsham, ate too much parkin, and grappled with issues around the sale of my Dad's house.
 
 So what happened this week? These are going out early on Friday because reasons.
-<br />
-<br />
+<br>  
+<br>  
+<br>      
 
 #### Monday
 _4hr 30m sleep: 66bpm resting heart rate: 14st 13.2lb weight. Earworm: tonite by LCD Soundsystem_
@@ -20,9 +21,9 @@ I also dealt with an outage on the legacy infrastructure that we use to host one
 In the office I worked on developing a proposal for a possible client, and looked at some project updates from collaborators, had calls etc. I'm dog tired.
 
 QOTD: "Take it easy, but take it all." - Lemn Sissay
-&nbsp; 
-&nbsp;
-
+<br>  
+<br>  
+<br>      
 
 #### Tuesday
 _4hr 47m sleep: 66bpm resting heart rate: 14st 13.6lb weight. Earworm: Block Rocking Beats by Chemical Brothers._
@@ -32,8 +33,9 @@ The highlight of my day was receiving an ITT from an unnamed cultural organisait
 More house admin done. Not sure if there's any kind of end in sight, but these are problems many people would kill to have. Despite that perspective, I'm miserable.
 
 QOTD: "I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there." - @IHasWisdom@mastodon.social
-` `  
-` `
+<br>  
+<br>  
+<br>      
 
 #### Wednesday
 _6h 2m sleep: 65bpm resting heart rate: 14st 11.6lb weight. Earworm: Jennifer by Everything Everything._
@@ -47,8 +49,7 @@ At the Hub for the rest of the day, having dropped a documentation bomb off at t
 QOTD: "When people ask why I'm fighting the climate crisis in the UK, I ask them which country they think carbon dioxide is in" - Phil Sturgeon, Protect Earth
 <br>  
 <br>  
-<br>    
-    
+<br>       
       
 #### Thursday
 _6h 48m sleep: 64bpm resting heart rate: 14st 12.2lb weight. Earworm: Freddie's Dead by Curtis Mayfield._
@@ -60,6 +61,9 @@ TIL that there are several UK companies called variations on "Complete Control" 
 The working day ended with drinks and pizza (I don't indulge) at the Hub, it was nice to meet a few new people but I'm poor in these situations, probably saying something wrong to at least one person. I also had an involved conversation with the conveyancing solicitor and let's just summarise that our roofer is going to need to supply a few answers.
 
 QOTD: "My favourite 2 words in business English? 'Remittance Advice'. Why yes I am a grubby capitalist who wants to get paid one day." - Me
+<br>  
+<br>  
+<br>      
 
 #### Friday
 _4h 7m sleep: 65bpm resting heart rate: unweighed. Earworm: Reward by Teardrop Explodes._
