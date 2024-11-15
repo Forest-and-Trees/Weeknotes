@@ -2,7 +2,7 @@
 Title: Weeknotes for 11th November 2024
 date: 2024-11-15
 ---
-Still lots to learn about Hugo, and not enough brain capacity.
+Still lots to learn about Hugo, and not enough brain capacity. Also Markdown. Apologies for poor formatting.
 
 Over the weekend I went running, watched John Wick 4 (spoiler alert: thankfully there won't be a JW5 as I don't think I have the stomach for any more), visited an ink and illustration fayre in Topsham, ate too much parkin, and grappled with issues around the sale of my Dad's house.
 
@@ -58,7 +58,10 @@ Really poor night's sleep and up and out early to travel to Bristol where I'm me
 
 I suspect I'll write off our current bids in progress and we'll assume nothing is happening. Standard. We're busy right now, but as ever I'm thinking 2-3 months ahead when we'll have more capacity. So if you're out there and have a strange project that doesn't fit a standard subcontractor and need a flexible, creative and technically multiskilled data/tech/design partner then [ping me](https://thedata.place).
 
-QOTD:"Me at 15: The Dead Kennedys are right about everything.
-Me at 20: Actually these issues are way more complex.
-Me at 28: But really it comes down to larger, systemic issues.
-Me at 35: The Dead Kennedys were right about everything." - @LeavittAlone on Twitter, 2019
+QOTD:
+- "Me at 15: The Dead Kennedys are right about everything.
+- Me at 20: Actually these issues are way more complex.
+- Me at 28: But really it comes down to larger, systemic issues.
+- Me at 35: The Dead Kennedys were right about everything." 
+
+@LeavittAlone on Twitter, 2019
