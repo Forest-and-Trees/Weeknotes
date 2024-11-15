@@ -7,9 +7,8 @@ Still lots to learn about Hugo, and not enough brain capacity. Also Markdown. Ap
 Over the weekend I went running, watched John Wick 4 (spoiler alert: thankfully there won't be a JW5 as I don't think I have the stomach for any more), visited an ink and illustration fayre in Topsham, ate too much parkin, and grappled with issues around the sale of my Dad's house.
 
 So what happened this week? These are going out early on Friday because reasons.
-&NewLine;
-&NewLine;
-&NewLine;
+<br />
+<br />
 
 #### Monday
 _4hr 30m sleep: 66bpm resting heart rate: 14st 13.2lb weight. Earworm: tonite by LCD Soundsystem_
