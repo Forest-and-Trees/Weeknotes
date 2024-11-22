@@ -9,7 +9,7 @@ People I know are moving to BlueSky. Unless Mastodon goes really quiet I probabl
 So what happened this week?
 <br> 
 <br>  
- 
+
 
 #### Monday
 _6h 34m sleep: 66bpm resting heart rate: no weight recorded. Earworm: I Believe in Miracles by The Jackson Sisters._
@@ -54,6 +54,7 @@ Starting to realise that my earworms are getting cheesier, perhaps I need to lis
 QOTD: "Am I someone who reacts to something, someone who reacts to the people who are reacting to that thing, or someone who summarises all the reactions that everyone is having to the thing and to the people reacting to it? Life is hard." - Simon considers the fallout from the Jaguar rebrand
 <br>  
 <br>
+<br>  
 
 
 #### Friday
@@ -70,6 +71,5 @@ QOTD: "7 things all kids need to hear:
 4. I forgive you 
 5. I'm listening 
 6. RAID is not backup. Make offsite backups. Verify backup. Find out restore time. Otherwise, you got what we call Schrödinger backup 
-7. You've got what it takes"
-- @nixCraft@mastodon.social
+7. You've got what it takes" - @nixCraft@mastodon.social
 <br>  
