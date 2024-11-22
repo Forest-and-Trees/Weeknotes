@@ -7,7 +7,9 @@ After a very busy end to last week, I was down with the lurgy over the weekend. 
 People I know are moving to BlueSky. Unless Mastodon goes really quiet I probably won't be doing that, as I expect it to have a similar end to Twitter and is being financed by some weirdo blockchain thing. Now, it might be good over a reasonable time period before that happens, but I think I'll just plod on where I am on Mastodon, which won't suffer the same fate. If I ever won the EuroMillions or something, I'd fund Mastodon development, and if you have that sort of money and are reading this, please do that with no strings attached. The world needs a social media ecosystem that doesn't operate for the benefit of billionaire owners. Message ends.
 
 So what happened this week?
+<br> 
 <br>  
+ 
 
 #### Monday
 _6h 34m sleep: 66bpm resting heart rate: no weight recorded. Earworm: I Believe in Miracles by The Jackson Sisters._
@@ -15,6 +17,7 @@ _6h 34m sleep: 66bpm resting heart rate: no weight recorded. Earworm: I Believe 
 Decent sleep but since I'm not feeling 100% I worked from home. Catch up calls with one project and also with my friend and former colleague Carl, who is working on an interesting leadership coaching model. I've been on the receiving end of leadership development programmes in the past and they have horrified me, but this feels a bit more rounded and speaks to personal effectiveness more than things like influencing people. Too much leadership in a capitalist model is about gaining and using power, but the people I've seen be really effective are more in the background coaxing and encouraging others to build communities instead. I'm still thinking around this.
 
 QOTD: "Fun fact: the National Farmers’ Union is not, according the UK regulator of unions, a trade union." - @drandrewv2@freeradical.zone on Mastodon
+<br>  
 <br>  
 
 #### Tuesday
@@ -24,6 +27,8 @@ Still have the lurgy, although I managed a walk out to the local supermarket to 
 
 QOTD: "Billionaires aren’t self-made men. Trans men are self-made men. #internationalmensday" - @renegadejade@chaosfem.tw on Mastodon
 <br>  
+<br>  
+
 
 #### Wednesday
 _5h 56m sleep: 65bpm resting heart rate: 14st 13.6lb weight. Earworm: Man-eater by Hall & Oates, not sure why._
@@ -34,6 +39,8 @@ In the afternoon I was on the inaugural Teams call for the Bath Spa University E
 
 QOTD: "The more I learn about cryptography, the more I think Alice and Bob should probably just talk in person." - @preinheimer@phpc.social
 <br>  
+<br>
+
 
 #### Thursday
 _6h 11m sleep: 67bpm resting heart rate: 14st 13.2lb weight. Earworm: Smooth Criminal by Michael Jackson, NSW._
@@ -46,6 +53,8 @@ Starting to realise that my earworms are getting cheesier, perhaps I need to lis
 
 QOTD: "Am I someone who reacts to something, someone who reacts to the people who are reacting to that thing, or someone who summarises all the reactions that everyone is having to the thing and to the people reacting to it? Life is hard." - Simon considers the fallout from the Jaguar rebrand
 <br>  
+<br>
+
 
 #### Friday
 _4h 59m sleep: 66bpm resting heart rate: 14st 13.8lb weight. Earworm: This Corrosion by The Sisters of Mercy._
