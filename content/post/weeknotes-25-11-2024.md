@@ -1,6 +1,6 @@
 --- 
 Title: Weeknotes for 25th November 2024
-date: 2024-11-30
+date: 2024-11-29
 ---
 It turned out to be a very low key weekend due to the weather, we basically stayed in. Some friends were due to come round on Sunday but we postponed this as they couldn't travel, meaning that we had quite a lot of food prepared that we had to eat ourselves. It's a really hard life. On Sunday I also learned that the Riverford Field Kitchen recipe for Beetroot Rostis is pretty good although - middle class problems alert - I couldn't source any horseradish root.
 
