@@ -68,6 +68,6 @@ _5h 33m sleep: 65bpm resting heart rate: 14st 13.2lb weight. Earworm: Pizza Boy 
 
 Spent the morning at my Dad's house trying to work out why the buyer's builder had been so scathing about it. To be honest I still don't know. Sent all the emails anyway. My niece is in A&E and my thoughts are largely with my sister as a result: we will have to deal with the house stuff later. Did a client call from there over lunchtime, tethered and freezing cold. 
 
-In the afternoon I had a catch up with Lucy and we arranged to co-work one day next week. reviewed my week and sent some more emails, then started preparing for the main CKAN switchover which will happen (mostly) on Saturday while my partner is babysitting her grandchildren. Tune in next week to find out how it went!
+In the afternoon I had a catch up with Lucy and we arranged to co-work one day next week. Reviewed my week and sent some more emails, then started preparing for the main CKAN switchover which will happen (mostly) on Saturday while my partner is babysitting her grandchildren. Tune in next week to find out how it went!
 
 QOTD: "What I'm basically asking I think is 'Can I cure travel sickness by dressing like a pirate?'" - @afewbugs@social.coop considers the potential benefits of only having one working eye.
